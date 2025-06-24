@@ -1,0 +1,39 @@
+*{
+    padding: 10;
+    margin: 10;
+}
+#title{
+    text-align: center;
+    font-size: 64px;
+    color: rgba(139, 40, 40, 0.8);
+    background-image: url(https://wallpapers.com/images/hd/teacher-background-2tdjqh0pgbvtelo1.jpg);
+    background-size: cover;    
+}
+body{
+    background-image: url(backgroudlogo.jpg);
+    background-size:contain;
+}
+#para11{
+    margin-left: 19%;
+    padding: 0%;
+}
+#para22{
+    margin-left: 19%;
+    padding: 0%;
+}
+#about{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.w2HAJV64bYVPJ0lMdINvgQHaEK&pid=Api&P=0&h=180);
+    background-size: cover;
+}
+#Table{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.TbMkk-mqGV44PZcJMkB74AAAAA&pid=Api&P=0&h=180);
+    align-content: center;
+    background-size: cover;
+    margin-left:0%;
+}
+#innertable{
+    margin-left: 40%;
+}
+h2{
+    text-align: center;
+}

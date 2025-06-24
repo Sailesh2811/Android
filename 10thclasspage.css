@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.DSJoIPbPwrG0hFzjfnG2yAHaEK&pid=Api&P=0&h=180);
+    background-size: cover;
+}
+#table1{
+    margin-left: 15%;
+    margin-right: 20%;
+}
